@@ -1,0 +1,1644 @@
+{
+  "sintomas": {
+    "fisicos": [
+      "acordar durante a noite",
+      "acordar muito cedo",
+      "azia",
+      "boca seca",
+      "chiado no peito",
+      "coceira nos olhos",
+      "desmaio",
+      "dificuldade para dormir",
+      "dificuldade para engolir",
+      "diminuição da urina",
+      "dor abdominal",
+      "dor de cabeça latejante",
+      "dor de garganta",
+      "dor nas articulações",
+      "fadiga",
+      "fadiga diurna",
+      "fadiga extrema",
+      "falta de ar",
+      "febre baixa",
+      "febre alta",
+      "fotofobia",
+      "fraqueza",
+      "fraqueza muscular",
+      "garganta inchada",
+      "inchaço abdominal",
+      "inchaço nas juntas",
+      "náuseas",
+      "olhos vermelhos",
+      "palidez",
+      "pele seca",
+      "perda de apetite",
+      "rigidez articular",
+      "rigidez matinal",
+      "secreção ocular",
+      "sede excessiva",
+      "sensibilidade à luz",
+      "sensibilidade ao som",
+      "sono não reparador",
+      "tontura",
+      "tosse com catarro",
+      "tosse seca",
+      "vermelhidão na área",
+      "visão turva",
+      "vômitos",
+      "xerostomia",
+      "zumbido no ouvido",
+      "suor noturno",
+      "perda de peso inexplicada",
+      "ganho de peso inexplicado",
+      "dor no peito",
+      "palpitações",
+      "dormência",
+      "formigamento",
+      "sangramento nasal",
+      "gânglios inchados",
+      "sensação de ouvido tampado",
+      "rouquidão",
+      "mau hálito persistente",
+      "dores menstruais intensas",
+      "incontinência urinária",
+      "constipação",
+      "diarreia",
+      "urina escura",
+      "urina com sangue",
+      "fezes claras",
+      "amarelamento da pele",
+      "amarelamento dos olhos",
+      "feridas que não cicatrizam",
+      "manchas na pele",
+      "queda de cabelo excessiva",
+      "unhas quebradiças",
+      "língua inchada",
+      "gengivas inchadas",
+      "gengivas sangrando",
+      "calafrios",
+      "suor excessivo",
+      "inchaço nas pernas",
+      "dor lombar",
+      "dor ao urinar",
+      "retenção de líquidos",
+      "mãos e pés frios",
+      "alterações no paladar",
+      "perda de olfato",
+      "espasmos musculares",
+      "cãibras",
+      "sangue nas fezes",
+      "dificuldade para respirar deitado",
+      "ronco excessivo",
+      "apneia do sono",
+      "bolhas na pele",
+      "descamação da pele",
+      "coceira generalizada",
+      "lábios rachados",
+      "língua geográfica",
+      "mudança na voz",
+      "dificuldade para falar",
+      "perda de coordenação",
+      "dificuldade para equilibrar",
+      "tremores em repouso",
+      "movimentos involuntários",
+      "rigidez muscular generalizada",
+      "olhos saltados",
+      "pálpebras caídas",
+      "visão dupla",
+      "perda de audição",
+      "secreção nasal",
+      "congestão nasal",
+      "espirros frequentes",
+      "dor nos ossos",
+      "deformidades articulares",
+      "crescimento de pelos em excesso",
+      "estrias roxas",
+      "aumento da sede noturna",
+      "micção frequente",
+      "vontade urgente de urinar",
+      "dor no quadril",
+      "dor no calcanhar",
+      "unhas com sulcos",
+      "olheiras profundas",
+      "inchaço ao redor dos olhos",
+      "dedos em baioneta",
+      "cianose (extremidades azuladas)",
+      "rubor facial",
+      "pele fina e frágil",
+      "hematomas fáceis",
+      "sangramento gengival espontâneo",
+      "sangramento prolongado após cortes",
+      "menstruação abundante",
+      "ausência de menstruação",
+      "secreção mamária",
+      "dor nos testículos",
+      "diminuição da libido",
+      "disfunção erétil",
+      "secura vaginal",
+      "corrimento vaginal anormal",
+      "dor durante a relação sexual",
+      "aumento da circunferência abdominal",
+      "sibilos",
+      "estridor",
+      "edema pulmonar",
+      "cianose central",
+      "taquipneia",
+      "bradipneia",
+      "hipotensão ortostática",
+      "hipertermia",
+      "hipotermia",
+      "olhos fundos",
+      "língua saburrosa",
+      "hálito cetônico",
+      "edema de membros inferiores",
+      "ascite",
+      "icterícia",
+      "prurido generalizado",
+      "petéquias",
+      "equimoses",
+      "púrpura",
+      "edema de face",
+      "macroglossia",
+      "teleangiectasias",
+      "clubbing digital",
+      "edema de pálpebras",
+      "xantomas",
+      "xantelasmas",
+      "nistagmo",
+      "ptose palpebral",
+      "anisocoria",
+      "fotopsia",
+      "escotomas",
+      "hemianopsia",
+      "diplopia",
+      "oftalmoplegia",
+      "midríase",
+      "miose",
+      "rigidez de nuca",
+      "sinal de Brudzinski",
+      "sinal de Kernig",
+      "reflexos hiperativos",
+      "reflexos hipoativos",
+      "clônus",
+      "sinal de Babinski",
+      "atetose",
+      "coreia",
+      "distonia",
+      "espasticidade",
+      "flacidez",
+      "paralisia",
+      "paresia",
+      "hemiplegia",
+      "paraplegia",
+      "tetraplegia",
+      "afasia",
+      "disartria",
+      "disfonia",
+      "anosmia",
+      "ageusia",
+      "parosmia",
+      "fantosmia",
+      "tinnitus",
+      "otorreia",
+      "otorragia",
+      "otalgia",
+      "vertigem",
+      "nistagmo vestibular",
+      "sinal de Romberg",
+      "incoordenação",
+      "disdiadococinesia",
+      "disgrafia",
+      "dislexia",
+      "acalculia",
+      "agnosia",
+      "apraxia",
+      "amnesia",
+      "confabulação",
+      "desorientação",
+      "delirium",
+      "estupor",
+      "coma"
+    ],
+    "mentais": [
+      "acordar frequentemente",
+      "alterações no apetite",
+      "ansiedade",
+      "ansiedade antecipatória",
+      "ansiedade relacionada à saúde",
+      "autoimagem distorcida",
+      "automutilação",
+      "checagem constante do corpo",
+      "cinismo",
+      "compulsões",
+      "dificuldade de concentração",
+      "dificuldade para dormir",
+      "dores de cabeça",
+      "episódios depressivos",
+      "episódios de mania",
+      "evitação de lembranças",
+      "evitação de situações sociais",
+      "exaustão emocional",
+      "fadiga diurna",
+      "flashbacks",
+      "hipervigilância",
+      "impulsividade",
+      "inquietação",
+      "insônia",
+      "insônia ou excesso de sono",
+      "irritabilidade",
+      "isolamento social",
+      "medo de abandono",
+      "medo de interações sociais",
+      "medo excessivo de adoecer",
+      "mudanças bruscas de humor",
+      "pensamentos intrusivos",
+      "pensamentos suicidas",
+      "perda de interesse",
+      "perfeccionismo",
+      "pesadelos",
+      "preocupação com doenças",
+      "preocupação excessiva",
+      "redução da eficácia profissional",
+      "rituais repetitivos",
+      "sono não reparador",
+      "sudorese",
+      "tensão muscular",
+      "tremores",
+      "tristeza persistente",
+      "visitas frequentes ao médico",
+      "dificuldade em tomar decisões",
+      "sentimentos de culpa",
+      "baixa autoestima",
+      "desesperança",
+      "apatia",
+      "agressividade",
+      "despersonalização",
+      "desrealização",
+      "alucinações",
+      "delírios",
+      "paranoia",
+      "confusão mental",
+      "perda de memória recente",
+      "dificuldade de aprendizagem",
+      "fala desorganizada",
+      "comportamento catatônico",
+      "vícios",
+      "compulsão alimentar",
+      "aversão a alimentos",
+      "medo de ganhar peso",
+      "comportamentos de risco",
+      "falta de empatia",
+      "necessidade de admiração excessiva",
+      "sentimento de grandiosidade",
+      "mania de perseguição",
+      "ciúme patológico",
+      "crises de choro",
+      "sensação de vazio",
+      "desejo de morte",
+      "planos suicidas",
+      "alterações no ritmo do sono",
+      "sonambulismo",
+      "terrores noturnos",
+      "bruxismo",
+      "dificuldade em expressar emoções",
+      "emoções embotadas",
+      "reatividade emocional excessiva",
+      "sensibilidade à rejeição",
+      "necessidade de controle",
+      "dificuldade em relaxar",
+      "medo de falar em público",
+      "medo de espaços abertos",
+      "medo de lugares fechados",
+      "medo de altura",
+      "medo de animais específicos",
+      "pensamentos acelerados",
+      "fuga de pensamentos",
+      "dificuldade em terminar tarefas",
+      "procrastinação excessiva",
+      "perfeccionismo incapacitante",
+      "verificação repetitiva",
+      "colecionismo patológico",
+      "acumulação compulsiva",
+      "comportamentos supersticiosos",
+      "necessidade de simetria",
+      "medo de contaminação",
+      "lavagem excessiva das mãos",
+      "dúvidas constantes",
+      "necessidade de confirmação",
+      "comportamento de ordem",
+      "contagem compulsiva",
+      "repetição de palavras",
+      "tiques nervosos",
+      "ecolalia",
+      "comportamento de autoagressão",
+      "isolamento voluntário",
+      "recusa em sair de casa",
+      "negativismo",
+      "oposição sistemática",
+      "comportamento de desafio",
+      "mentiras patológicas",
+      "roubo compulsivo",
+      "jogos de azar patológicos",
+      "compulsão por compras",
+      "dependência emocional",
+      "ciúmes excessivos",
+      "possessividade",
+      "comportamento de stalking",
+      "fantasias de grandeza",
+      "illusões de referência",
+      "crenças mágicas",
+      "pensamento mágico",
+      "superstições excessivas",
+      "crenças persecutórias",
+      "sensação de estar sendo observado",
+      "medo de envenenamento",
+      "sensação de irrealidade",
+      "estranhamento do próprio corpo",
+      "sensação de deslocamento no tempo",
+      "esquecimento de eventos traumáticos",
+      "identidades alternadas",
+      "vozes internas conflitantes",
+      "comportamento infantilizado",
+      "regressão de idade",
+      "fugas dissociativas",
+      "anhedonia",
+      "abulia",
+      "alogia",
+      "avolição",
+      "desorganização comportamental",
+      "negligência pessoal",
+      "isolamento extremo",
+      "mutismo seletivo",
+      "verborragia",
+      "tangencialidade",
+      "circunstancialidade",
+      "perseveração",
+      "ecopraxia",
+      "estereotipias",
+      "manierismos",
+      "negativismo extremo",
+      "obediência automática",
+      "ecolalia proposital",
+      "comportamento de imitação",
+      "gestos simbólicos",
+      "expressão facial inadequada",
+      "riso ou choro imotivado",
+      "labilidade emocional",
+      "apatia extrema",
+      "descuido com higiene",
+      "desinteresse por futuro",
+      "falta de insight",
+      "negação da doença",
+      "resistência ao tratamento",
+      "idealização de figuras",
+      "desvalorização súbita",
+      "medo de enlouquecer",
+      "sensação de morte iminente",
+      "desconfiança patológica",
+      "ciúmes delirantes",
+      "erotomania",
+      "síndrome de Cotard",
+      "síndrome de Capgras",
+      "síndrome de Fregoli",
+      "síndrome de Jerusalém",
+      "síndrome de Paris",
+      "síndrome de Estocolmo",
+      "síndrome de Lima",
+      "síndrome de Diógenes",
+      "síndrome de Munchausen",
+      "síndrome de Munchausen por procuração"
+    ]
+  },
+  "doencas": {
+    "fisicas": [
+      {
+        "doenca": "Conjuntivite",
+        "tipo": "fisico",
+        "descricao": "Inflamação da membrana que reveste o olho.",
+        "tratamento": "Compressas frias, colírios e higiene adequada.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "olhos vermelhos", "peso": 1.2 },
+          { "s": "coceira nos olhos", "peso": 1.0 },
+          { "s": "secreção ocular", "peso": 1.1 },
+          { "s": "fotofobia", "peso": 0.9 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["olhos vermelhos"]
+        }
+      },
+      {
+        "doenca": "Resfriado Comum",
+        "tipo": "fisico",
+        "descricao": "Infecção viral leve das vias aéreas superiores.",
+        "tratamento": "Repouso, hidratação, analgésicos leves.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "congestão nasal", "peso": 1.2 },
+          { "s": "espirros frequentes", "peso": 1.1 },
+          { "s": "dor de garganta leve", "peso": 1.0 },
+          { "s": "tosse seca", "peso": 0.9 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["congestão nasal"]
+        }
+      },
+      {
+        "doenca": "Dermatite de Contato",
+        "tipo": "fisico",
+        "descricao": "Inflamação da pele devido a contato com irritantes ou alérgenos.",
+        "tratamento": "Evitar o agente causador, cremes com corticoide, anti-histamínicos.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "vermelhidão na área", "peso": 1.3 },
+          { "s": "coceira generalizada", "peso": 1.2 },
+          { "s": "descamação da pele", "peso": 1.0 },
+          { "s": "bolhas na pele", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["vermelhidão na área"]
+        }
+      },
+      {
+        "doenca": "Candidíase Oral (Sapinho)",
+        "tipo": "fisico",
+        "descricao": "Infecção fúngica na boca causada por Candida.",
+        "tratamento": "Antifúngicos tópicos ou orais, higiene bucal.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "placas brancas na boca", "peso": 1.4 },
+          { "s": "dor ao engolir", "peso": 1.1 },
+          { "s": "perda do paladar", "peso": 0.9 },
+          { "s": "lábios rachados", "peso": 0.8 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["placas brancas na boca"]
+        }
+      },
+      {
+        "doenca": "Faringite",
+        "tipo": "fisico",
+        "descricao": "Inflamação da faringe (garganta).",
+        "tratamento": "Gargarejos, analgésicos e anti-inflamatórios.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "dor de garganta", "peso": 1.3 },
+          { "s": "dificuldade para engolir", "peso": 1.1 },
+          { "s": "garganta inchada", "peso": 1.0 },
+          { "s": "febre baixa", "peso": 0.8 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["dor de garganta"]
+        }
+      },
+      {
+        "doenca": "Anemia",
+        "tipo": "fisico",
+        "descricao": "Redução de glóbulos vermelhos ou hemoglobina, causando cansaço e palidez.",
+        "tratamento": "Suplementação, ajuste alimentar e investigação da causa.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "palidez", "peso": 1.0 },
+          { "s": "fadiga extrema", "peso": 1.2 },
+          { "s": "tontura", "peso": 0.9 },
+          { "s": "fraqueza muscular", "peso": 1.0 },
+          { "s": "falta de ar", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["palidez", "fadiga extrema"]
+        }
+      },
+      {
+        "doenca": "Artrite Reumatoide",
+        "tipo": "fisico",
+        "descricao": "Doença autoimune que causa inflamação nas articulações.",
+        "tratamento": "Medicamentos anti-inflamatórios, fisioterapia.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dor nas articulações", "peso": 1.4 },
+          { "s": "inchaço nas juntas", "peso": 1.3 },
+          { "s": "rigidez matinal", "peso": 1.2 },
+          { "s": "fadiga", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["dor nas articulações"]
+        }
+      },
+      {
+        "doenca": "Bronquite",
+        "tipo": "fisico",
+        "descricao": "Inflamação dos brônquios com produção excessiva de muco.",
+        "tratamento": "Repouso, hidratação e medicamentos para alívio dos sintomas.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "tosse com catarro", "peso": 1.3 },
+          { "s": "chiado no peito", "peso": 1.1 },
+          { "s": "falta de ar", "peso": 1.2 },
+          { "s": "febre baixa", "peso": 0.8 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["tosse com catarro"]
+        }
+      },
+      {
+        "doenca": "Desidratação",
+        "tipo": "fisico",
+        "descricao": "Perda excessiva de líquidos corporais.",
+        "tratamento": "Reposição de líquidos e eletrólitos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "sede excessiva", "peso": 1.1 },
+          { "s": "boca seca", "peso": 1.0 },
+          { "s": "diminuição da urina", "peso": 1.0 },
+          { "s": "pele seca", "peso": 0.9 },
+          { "s": "fadiga", "peso": 0.8 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["sede excessiva"]
+        }
+      },
+      {
+        "doenca": "Enxaqueca",
+        "tipo": "fisico",
+        "descricao": "Dor de cabeça intensa e recorrente.",
+        "tratamento": "Repouso em ambiente escuro, medicamentos específicos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dor de cabeça latejante", "peso": 1.4 },
+          { "s": "sensibilidade à luz", "peso": 1.1 },
+          { "s": "sensibilidade ao som", "peso": 1.0 },
+          { "s": "náuseas", "peso": 1.0 },
+          { "s": "vômitos", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["dor de cabeça latejante"]
+        }
+      },
+      {
+        "doenca": "Gastrite",
+        "tipo": "fisico",
+        "descricao": "Inflamação do revestimento do estômago.",
+        "tratamento": "Dieta leve, antiácidos e medicamentos para reduzir a acidez.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dor abdominal", "peso": 1.3 },
+          { "s": "azia", "peso": 1.1 },
+          { "s": "náuseas", "peso": 1.0 },
+          { "s": "perda de apetite", "peso": 0.9 },
+          { "s": "inchaço abdominal", "peso": 0.9 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["dor abdominal"]
+        }
+      },
+      {
+        "doenca": "Hipotensão",
+        "tipo": "fisico",
+        "descricao": "Pressão arterial anormalmente baixa.",
+        "tratamento": "Aumentar ingestão de líquidos e sal, levantar-se lentamente.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "tontura", "peso": 1.2 },
+          { "s": "visão turva", "peso": 1.0 },
+          { "s": "fraqueza", "peso": 1.0 },
+          { "s": "desmaio", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["tontura"]
+        }
+      },
+      {
+        "doenca": "Insônia",
+        "tipo": "fisico",
+        "descricao": "Dificuldade em iniciar ou manter o sono.",
+        "tratamento": "Higiene do sono, terapia cognitivo-comportamental.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dificuldade para dormir", "peso": 1.3 },
+          { "s": "acordar durante a noite", "peso": 1.1 },
+          { "s": "acordar muito cedo", "peso": 1.0 },
+          { "s": "sono não reparador", "peso": 1.1 },
+          { "s": "fadiga diurna", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["dificuldade para dormir"]
+        }
+      },
+      {
+        "doenca": "Juntas Inflamadas",
+        "tipo": "fisico",
+        "descricao": "Inflamação das articulações com dor e inchaço.",
+        "tratamento": "Repouso, anti-inflamatórios e compressas frias/quentes.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dor nas articulações", "peso": 1.3 },
+          { "s": "inchaço nas juntas", "peso": 1.2 },
+          { "s": "rigidez articular", "peso": 1.1 },
+          { "s": "vermelhidão na área", "peso": 0.9 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["dor nas articulações"]
+        }
+      },
+      {
+        "doenca": "Diabetes Tipo 2",
+        "tipo": "fisico",
+        "descricao": "Distúrbio metabólico caracterizado pelo alto nível de açúcar no sangue.",
+        "tratamento": "Dieta, exercícios, medicamentos orais ou insulina.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "sede excessiva", "peso": 1.4 },
+          { "s": "fadiga", "peso": 1.2 },
+          { "s": "visão turva", "peso": 1.1 },
+          { "s": "feridas que não cicatrizam", "peso": 1.3 },
+          { "s": "formigamento", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["sede excessiva"]
+        }
+      },
+      {
+        "doenca": "Hipertensão Arterial",
+        "tipo": "fisico",
+        "descricao": "Pressão arterial elevada de forma crônica.",
+        "tratamento": "Medicação, dieta com pouco sal, exercícios.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "dor de cabeça", "peso": 1.2 },
+          { "s": "tontura", "peso": 1.1 },
+          { "s": "visão turva", "peso": 1.0 },
+          { "s": "palpitações", "peso": 1.1 },
+          { "s": "sangramento nasal", "peso": 0.9 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": []
+        }
+      },
+      {
+        "doenca": "Hipotireoidismo",
+        "tipo": "fisico",
+        "descricao": "Glândula tireoide pouco ativa, levando ao metabolismo lento.",
+        "tratamento": "Reposição hormonal com levotiroxina.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "fadiga", "peso": 1.3 },
+          { "s": "ganho de peso inexplicado", "peso": 1.2 },
+          { "s": "depressão", "peso": 1.1 },
+          { "s": "constipação", "peso": 1.0 },
+          { "s": "pele seca", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["fadiga"]
+        }
+      },
+      {
+        "doenca": "Asma",
+        "tipo": "fisico",
+        "descricao": "Doença inflamatória crônica das vias aéreas.",
+        "tratamento": "Inaladores, medicamentos anti-inflamatórios, evitando gatilhos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "falta de ar", "peso": 1.4 },
+          { "s": "chiado no peito", "peso": 1.3 },
+          { "s": "tosse seca", "peso": 1.1 },
+          { "s": "aperto no peito", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["falta de ar"]
+        }
+      },
+      {
+        "doenca": "Gripe",
+        "tipo": "fisico",
+        "descricao": "Infecção viral aguda do trato respiratório.",
+        "tratamento": "Repouso, hidratação, medicamentos para sintomas.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "febre alta", "peso": 1.3 },
+          { "s": "dor de garganta", "peso": 1.1 },
+          { "s": "tosse", "peso": 1.0 },
+          { "s": "dores musculares", "peso": 1.2 },
+          { "s": "fadiga", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["febre alta"]
+        }
+      },
+      {
+        "doenca": "Pedras nos Rins",
+        "tipo": "fisico",
+        "descricao": "Formação de cálculos no sistema urinário.",
+        "tratamento": "Analgésicos, hidratação, procedimentos para remoção.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "dor abdominal intensa", "peso": 1.5 },
+          { "s": "dor ao urinar", "peso": 1.3 },
+          { "s": "urina com sangue", "peso": 1.2 },
+          { "s": "náuseas", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["dor abdominal intensa"]
+        }
+      },
+      {
+        "doenca": "Hepatite",
+        "tipo": "fisico",
+        "descricao": "Inflamação do fígado, geralmente causada por vírus.",
+        "tratamento": "Repouso, dieta, medicamentos antivirais.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "amarelamento da pele", "peso": 1.4 },
+          { "s": "fadiga", "peso": 1.2 },
+          { "s": "dor abdominal", "peso": 1.1 },
+          { "s": "urina escura", "peso": 1.3 },
+          { "s": "fezes claras", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["amarelamento da pele"]
+        }
+      },
+      {
+        "doenca": "Doença Celíaca",
+        "tipo": "fisico",
+        "descricao": "Intolerância permanente ao glúten.",
+        "tratamento": "Dieta sem glúten por toda a vida.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "diarreia", "peso": 1.3 },
+          { "s": "inchaço abdominal", "peso": 1.2 },
+          { "s": "fadiga", "peso": 1.1 },
+          { "s": "perda de peso", "peso": 1.2 },
+          { "s": "anemia", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["diarreia"]
+        }
+      },
+      {
+        "doenca": "Lúpus Eritematoso Sistêmico",
+        "tipo": "fisico",
+        "descricao": "Doença autoimune que pode afetar vários órgãos.",
+        "tratamento": "Anti-inflamatórios, imunossupressores, corticoides.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "fadiga extrema", "peso": 1.4 },
+          { "s": "dor nas articulações", "peso": 1.3 },
+          { "s": "erupções cutâneas", "peso": 1.2 },
+          { "s": "febre", "peso": 1.1 },
+          { "s": "sensibilidade ao sol", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["fadiga extrema", "dor nas articulações"]
+        }
+      },
+      {
+        "doenca": "Pneumonia",
+        "tipo": "fisico",
+        "descricao": "Infecção que inflama os sacos de ar em um ou ambos os pulmões.",
+        "tratamento": "Antibióticos, repouso, hidratação.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "febre alta", "peso": 1.4 },
+          { "s": "tosse com catarro amarelado", "peso": 1.3 },
+          { "s": "falta de ar", "peso": 1.5 },
+          { "s": "dor no peito ao respirar", "peso": 1.3 },
+          { "s": "calafrios", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["febre alta", "tosse com catarro amarelado"]
+        }
+      },
+      {
+        "doenca": "Apendicite",
+        "tipo": "fisico",
+        "descricao": "Inflamação do apêndice que requer cirurgia de emergência.",
+        "tratamento": "Cirurgia (apendicectomia).",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "dor abdominal intensa no quadrante inferior direito", "peso": 1.6 },
+          { "s": "náuseas", "peso": 1.2 },
+          { "s": "vômitos", "peso": 1.2 },
+          { "s": "febre baixa", "peso": 1.1 },
+          { "s": "perda de apetite", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["dor abdominal intensa no quadrante inferior direito"]
+        }
+      },
+      {
+        "doenca": "Meningite",
+        "tipo": "fisico",
+        "descricao": "Inflamação das membranas que envolvem o cérebro e a medula espinhal.",
+        "tratamento": "Hospitalização, antibióticos, antivirais.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "febre alta", "peso": 1.5 },
+          { "s": "dor de cabeça intensa", "peso": 1.6 },
+          { "s": "rigidez de nuca", "peso": 1.4 },
+          { "s": "fotofobia", "peso": 1.2 },
+          { "s": "confusão mental", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["febre alta", "dor de cabeça intensa"]
+        }
+      },
+      {
+        "doenca": "Osteoporose",
+        "tipo": "fisico",
+        "descricao": "Doença que enfraquece os ossos, tornando-os frágeis.",
+        "tratamento": "Suplementos de cálcio, vitamina D, medicamentos para fortalecer os ossos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "fraturas frequentes", "peso": 1.5 },
+          { "s": "dor nas costas", "peso": 1.2 },
+          { "s": "diminuição da altura", "peso": 1.3 },
+          { "s": "postura encurvada", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["fraturas frequentes"]
+        }
+      },
+      {
+        "doenca": "Doença de Crohn",
+        "tipo": "fisico",
+        "descricao": "Doença inflamatória intestinal crônica.",
+        "tratamento": "Medicamentos anti-inflamatórios, imunossupressores, cirurgia.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "dor abdominal", "peso": 1.4 },
+          { "s": "diarreia crônica", "peso": 1.5 },
+          { "s": "fadiga", "peso": 1.3 },
+          { "s": "perda de peso", "peso": 1.4 },
+          { "s": "sangramento retal", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["diarreia crônica", "dor abdominal"]
+        }
+      },
+      {
+        "doenca": "Gota",
+        "tipo": "fisico",
+        "descricao": "Forma de artrite caracterizada por dor intensa, vermelhidão e sensibilidade nas articulações.",
+        "tratamento": "Anti-inflamatórios, colchicina, mudanças na dieta.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dor intensa nas articulações", "peso": 1.6 },
+          { "s": "inchaço nas juntas", "peso": 1.4 },
+          { "s": "vermelhidão na área", "peso": 1.3 },
+          { "s": "calor na articulação afetada", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["dor intensa nas articulações"]
+        }
+      },
+      {
+        "doenca": "Mononucleose",
+        "tipo": "fisico",
+        "descricao": "Doença viral contagiosa que causa fadiga extrema.",
+        "tratamento": "Repouso, hidratação, medicamentos para sintomas.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "fadiga extrema", "peso": 1.5 },
+          { "s": "febre", "peso": 1.3 },
+          { "s": "dor de garganta", "peso": 1.2 },
+          { "s": "gânglios inchados", "peso": 1.4 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["fadiga extrema"]
+        }
+      },
+      {
+        "doenca": "Sinusite",
+        "tipo": "fisico",
+        "descricao": "Inflamação dos seios nasais.",
+        "tratamento": "Descongestionantes, analgésicos, antibióticos se bacteriana.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "dor facial", "peso": 1.3 },
+          { "s": "congestão nasal", "peso": 1.4 },
+          { "s": "secreção nasal", "peso": 1.2 },
+          { "s": "dor de cabeça", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["congestão nasal", "dor facial"]
+        }
+      },
+      {
+        "doenca": "Varicela (Catapora)",
+        "tipo": "fisico",
+        "descricao": "Doença viral altamente contagiosa que causa erupções cutâneas.",
+        "tratamento": "Repouso, medicamentos para coceira, antitérmicos.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "erupções cutâneas com bolhas", "peso": 1.6 },
+          { "s": "coceira", "peso": 1.4 },
+          { "s": "febre", "peso": 1.2 },
+          { "s": "fadiga", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["erupções cutâneas com bolhas"]
+        }
+      },
+      {
+        "doenca": "Tuberculose",
+        "tipo": "fisico",
+        "descricao": "Doença infecciosa bacteriana que afeta principalmente os pulmões.",
+        "tratamento": "Antibióticos por longo prazo (6 a 9 meses).",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "tosse persistente", "peso": 1.5 },
+          { "s": "febre baixa", "peso": 1.2 },
+          { "s": "suor noturno", "peso": 1.3 },
+          { "s": "perda de peso inexplicada", "peso": 1.4 },
+          { "s": "cansaço extremo", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["tosse persistente", "perda de peso inexplicada"]
+        }
+      },
+      {
+        "doenca": "Câncer de Pulmão",
+        "tipo": "fisico",
+        "descricao": "Crescimento descontrolado de células malignas nos pulmões.",
+        "tratamento": "Cirurgia, quimioterapia, radioterapia, imunoterapia.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "tosse persistente", "peso": 1.5 },
+          { "s": "dor no peito", "peso": 1.4 },
+          { "s": "falta de ar", "peso": 1.5 },
+          { "s": "perda de peso inexplicada", "peso": 1.6 },
+          { "s": "tosse com sangue", "peso": 1.7 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["tosse persistente", "perda de peso inexplicada"]
+        }
+      },
+      {
+        "doenca": "Infarto Agudo do Miocárdio",
+        "tipo": "fisico",
+        "descricao": "Obstrução aguda das artérias coronárias, levando à morte do músculo cardíaco.",
+        "tratamento": "Intervenção coronária emergencial, medicamentos, reabilitação cardíaca.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "dor no peito intensa", "peso": 1.8 },
+          { "s": "falta de ar", "peso": 1.5 },
+          { "s": "suor frio", "peso": 1.4 },
+          { "s": "náuseas", "peso": 1.2 },
+          { "s": "dor no braço esquerdo", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["dor no peito intensa"]
+        }
+      },
+      {
+        "doenca": "Acidente Vascular Cerebral (AVC)",
+        "tipo": "fisico",
+        "descricao": "Interrupção do fluxo sanguíneo para uma parte do cérebro.",
+        "tratamento": "Tratamento emergencial, reabilitação, medicamentos.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "fraqueza súbita na face/braço/perna", "peso": 1.8 },
+          { "s": "dificuldade para falar", "peso": 1.7 },
+          { "s": "tontura severa", "peso": 1.5 },
+          { "s": "perda de visão súbita", "peso": 1.6 },
+          { "s": "dor de cabeça intensa", "peso": 1.4 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["fraqueza súbita na face/braço/perna"]
+        }
+      },
+      {
+        "doenca": "Sepse (Infecção Generalizada)",
+        "tipo": "fisico",
+        "descricao": "Resposta extrema do corpo a uma infecção, levando a falência de órgãos.",
+        "tratamento": "Antibióticos intravenosos, suporte de órgãos, terapia intensiva.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "febre alta", "peso": 1.6 },
+          { "s": "confusão mental", "peso": 1.5 },
+          { "s": "falta de ar", "peso": 1.7 },
+          { "s": "hipotensão", "peso": 1.8 },
+          { "s": "taquicardia", "peso": 1.6 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["febre alta", "hipotensão"]
+        }
+      }
+    ],
+    "mentais": [
+      {
+        "doenca": "Ansiedade Generalizada",
+        "tipo": "psicologico",
+        "descricao": "Preocupação excessiva e persistente que interfere no dia a dia.",
+        "tratamento": "Terapia cognitivo-comportamental, medicamentos ansiolíticos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "preocupação excessiva", "peso": 1.4 },
+          { "s": "inquietação", "peso": 1.2 },
+          { "s": "dificuldade de concentração", "peso": 1.1 },
+          { "s": "irritabilidade", "peso": 1.0 },
+          { "s": "tensão muscular", "peso": 0.9 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["preocupação excessiva"]
+        }
+      },
+      {
+        "doenca": "Fobia Social",
+        "tipo": "psicologico",
+        "descricao": "Medo intenso de situações sociais ou de ser julgado.",
+        "tratamento": "Terapia, exposição gradual, medicamentos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "medo de interações sociais", "peso": 1.4 },
+          { "s": "ansiedade antecipatória", "peso": 1.2 },
+          { "s": "tremores", "peso": 1.0 },
+          { "s": "sudorese", "peso": 0.9 },
+          { "s": "evitação de situações sociais", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["medo de interações sociais"]
+        }
+      },
+      {
+        "doenca": "Hipocondria",
+        "tipo": "psicologico",
+        "descricao": "Preocupação excessiva com a saúde e medo de ter doenças graves.",
+        "tratamento": "Terapia cognitivo-comportamental, medicamentos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "preocupação com doenças", "peso": 1.4 },
+          { "s": "medo excessivo de adoecer", "peso": 1.3 },
+          { "s": "checagem constante do corpo", "peso": 1.1 },
+          { "s": "ansiedade relacionada à saúde", "peso": 1.2 },
+          { "s": "visitas frequentes ao médico", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["preocupação com doenças"]
+        }
+      },
+      {
+        "doenca": "Insônia Crônica",
+        "tipo": "psicologico",
+        "descricao": "Dificuldade persistente para dormir ou manter o sono.",
+        "tratamento": "Higiene do sono, terapia, medicamentos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dificuldade para dormir", "peso": 1.4 },
+          { "s": "acordar frequentemente", "peso": 1.2 },
+          { "s": "sono não reparador", "peso": 1.3 },
+          { "s": "fadiga diurna", "peso": 1.1 },
+          { "s": "irritabilidade", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["dificuldade para dormir"]
+        }
+      },
+      {
+        "doenca": "Burnout",
+        "tipo": "psicologico",
+        "descricao": "Esgotamento físico e mental devido ao estresse crônico no trabalho.",
+        "tratamento": "Terapia, redução de estresse, mudanças no estilo de vida.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "exaustão emocional", "peso": 1.5 },
+          { "s": "cinismo", "peso": 1.3 },
+          { "s": "redução da eficácia profissional", "peso": 1.2 },
+          { "s": "insônia", "peso": 1.0 },
+          { "s": "dores de cabeça", "peso": 0.8 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["exaustão emocional"]
+        }
+      },
+      {
+        "doenca": "Depressão",
+        "tipo": "psicologico",
+        "descricao": "Transtorno de humor caracterizado por tristeza profunda e perda de interesse.",
+        "tratamento": "Terapia, antidepressivos, mudanças no estilo de vida.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "tristeza persistente", "peso": 1.5 },
+          { "s": "perda de interesse", "peso": 1.4 },
+          { "s": "alterações no apetite", "peso": 1.1 },
+          { "s": "insônia ou excesso de sono", "peso": 1.0 },
+          { "s": "pensamentos suicidas", "peso": 1.6 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["tristeza persistente", "perda de interesse"]
+        }
+      },
+      {
+        "doenca": "Estresse Pós-Traumático",
+        "tipo": "psicologico",
+        "descricao": "Transtorno desencadeado por evento traumático, com flashbacks e ansiedade.",
+        "tratamento": "Terapia, medicamentos, suporte social.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "flashbacks", "peso": 1.5 },
+          { "s": "pesadelos", "peso": 1.3 },
+          { "s": "hipervigilância", "peso": 1.2 },
+          { "s": "evitação de lembranças", "peso": 1.1 },
+          { "s": "isolamento social", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["flashbacks"]
+        }
+      },
+      {
+        "doenca": "Transtorno Bipolar",
+        "tipo": "psicologico",
+        "descricao": "Alternância entre episódios de depressão e mania.",
+        "tratamento": "Medicamentos, terapia, suporte contínuo.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "episódios de mania", "peso": 1.6 },
+          { "s": "episódios depressivos", "peso": 1.5 },
+          { "s": "mudanças bruscas de humor", "peso": 1.4 },
+          { "s": "impulsividade", "peso": 1.2 },
+          { "s": "dificuldade de concentração", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["episódios de mania", "episódios depressivos"]
+        }
+      },
+      {
+        "doenca": "Transtorno Obsessivo-Compulsivo",
+        "tipo": "psicologico",
+        "descricao": "Pensamentos intrusivos e comportamentos repetitivos.",
+        "tratamento": "Terapia, medicamentos.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "pensamentos intrusivos", "peso": 1.5 },
+          { "s": "compulsões", "peso": 1.4 },
+          { "s": "ansiedade", "peso": 1.2 },
+          { "s": "perfeccionismo", "peso": 1.1 },
+          { "s": "rituais repetitivos", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["pensamentos intrusivos", "compulsões"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Borderline",
+        "tipo": "psicologico",
+        "descricao": "Instabilidade emocional, relacionamentos intensos e autoimagem distorcida.",
+        "tratamento": "Terapia dialética-comportamental, medicamentos.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "instabilidade emocional", "peso": 1.6 },
+          { "s": "medo de abandono", "peso": 1.4 },
+          { "s": "comportamento impulsivo", "peso": 1.3 },
+          { "s": "autoimagem distorcida", "peso": 1.2 },
+          { "s": "automutilação", "peso": 1.5 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["instabilidade emocional"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Déficit de Atenção e Hiperatividade",
+        "tipo": "psicologico",
+        "descricao": "Dificuldade em manter a atenção, hiperatividade e impulsividade.",
+        "tratamento": "Terapia, medicamentos, estratégias comportamentais.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dificuldade de concentração", "peso": 1.4 },
+          { "s": "inquietação", "peso": 1.3 },
+          { "s": "impulsividade", "peso": 1.2 },
+          { "s": "desorganização", "peso": 1.1 },
+          { "s": "esquecimento", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["dificuldade de concentração"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Pânico",
+        "tipo": "psicologico",
+        "descricao": "Ataques súbitos de medo intenso com sintomas físicos graves.",
+        "tratamento": "Terapia, medicamentos ansiolíticos e antidepressivos.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "ataques de pânico", "peso": 1.6 },
+          { "s": "medo de perder o controle", "peso": 1.4 },
+          { "s": "palpitações", "peso": 1.3 },
+          { "s": "sudorese", "peso": 1.1 },
+          { "s": "sensação de desmaio", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["ataques de pânico"]
+        }
+      },
+      {
+        "doenca": "Anorexia Nervosa",
+        "tipo": "psicologico",
+        "descricao": "Distúrbio alimentar caracterizado por restrição alimentar extrema.",
+        "tratamento": "Terapia nutricional, terapia psicológica, hospitalização se necessário.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "perda de peso extrema", "peso": 1.6 },
+          { "s": "medo de ganhar peso", "peso": 1.5 },
+          { "s": "autoimagem distorcida", "peso": 1.4 },
+          { "s": "restrição alimentar", "peso": 1.3 },
+          { "s": "amenorreia", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["perda de peso extrema", "medo de ganhar peso"]
+        }
+      },
+      {
+        "doenca": "Bulimia Nervosa",
+        "tipo": "psicologico",
+        "descricao": "Episódios de compulsão alimentar seguidos de comportamentos compensatórios.",
+        "tratamento": "Terapia, medicamentos, acompanhamento nutricional.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "compulsão alimentar", "peso": 1.5 },
+          { "s": "vômitos autoinduzidos", "peso": 1.4 },
+          { "s": "uso de laxantes", "peso": 1.3 },
+          { "s": "medo de ganhar peso", "peso": 1.4 },
+          { "s": "autoimagem distorcida", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["compulsão alimentar", "vômitos autoinduzidos"]
+        }
+      },
+      {
+        "doenca": "Esquizofrenia",
+        "tipo": "psicologico",
+        "descricao": "Transtorno mental grave caracterizado por delírios, alucinações e pensamento desorganizado.",
+        "tratamento": "Medicamentos antipsicóticos, terapia, suporte social.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "alucinações", "peso": 1.6 },
+          { "s": "delírios", "peso": 1.5 },
+          { "s": "pensamento desorganizado", "peso": 1.4 },
+          { "s": "isolamento social", "peso": 1.2 },
+          { "s": "afeto embotado", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["alucinações", "delírios"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Narcisista",
+        "tipo": "psicologico",
+        "descricao": "Padrão de grandiosidade, necessidade de admiração e falta de empatia.",
+        "tratamento": "Psicoterapia de longa duração.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "sentimento de grandiosidade", "peso": 1.5 },
+          { "s": "necessidade de admiração excessiva", "peso": 1.4 },
+          { "s": "falta de empatia", "peso": 1.3 },
+          { "s": "exploração de outros", "peso": 1.2 },
+          { "s": "inveja", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["sentimento de grandiosidade", "falta de empatia"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Antissocial",
+        "tipo": "psicologico",
+        "descricao": "Padrão de desrespeito e violação dos direitos dos outros.",
+        "tratamento": "Terapia comportamental, porém com baixa adesão.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "desrespeito por normas sociais", "peso": 1.5 },
+          { "s": "enganos e manipulação", "peso": 1.4 },
+          { "s": "impulsividade", "peso": 1.3 },
+          { "s": "agressividade", "peso": 1.4 },
+          { "s": "falta de remorso", "peso": 1.5 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["desrespeito por normas sociais", "falta de remorso"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Estresse Agudo",
+        "tipo": "psicologico",
+        "descricao": "Reação intensa e disfuncional a um evento traumático, com duração menor que um mês.",
+        "tratamento": "Terapia de suporte, medicamentos para ansiedade.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "revivência do trauma", "peso": 1.4 },
+          { "s": "evitação de estímulos", "peso": 1.3 },
+          { "s": "hipervigilância", "peso": 1.2 },
+          { "s": "ansiedade intensa", "peso": 1.3 },
+          { "s": "dificuldade para dormir", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["revivência do trauma"]
+        }
+      },
+      {
+        "doenca": "Transtorno Dissociativo de Identidade",
+        "tipo": "psicologico",
+        "descricao": "Presença de duas ou mais identidades de personalidade distintas.",
+        "tratamento": "Psicoterapia de longa duração, integração das identidades.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "presença de múltiplas identidades", "peso": 1.7 },
+          { "s": "lacunas de memória", "peso": 1.5 },
+          { "s": "despersonalização", "peso": 1.3 },
+          { "s": "desrealização", "peso": 1.2 },
+          { "s": "sofrimento significativo", "peso": 1.4 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["presença de múltiplas identidades"]
+        }
+      },
+      {
+        "doenca": "Tricotilomania",
+        "tipo": "psicologico",
+        "descricao": "Compulsão por arrancar os próprios cabelos.",
+        "tratamento": "Terapia comportamental, medicamentos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "arrancar cabelos repetidamente", "peso": 1.5 },
+          { "s": "perda de cabelo visível", "peso": 1.4 },
+          { "s": "tentativas de parar", "peso": 1.2 },
+          { "s": "ansiedade", "peso": 1.1 },
+          { "s": "alívio após arrancar", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["arrancar cabelos repetidamente"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Histriônica",
+        "tipo": "psicologico",
+        "descricao": "Padrão de emotividade excessiva e busca de atenção.",
+        "tratamento": "Psicoterapia, terapia comportamental.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "busca constante de atenção", "peso": 1.5 },
+          { "s": "comportamento sedutor inadequado", "peso": 1.4 },
+          { "s": "emocionalidade superficial e rápida", "peso": 1.3 },
+          { "s": "sugestionabilidade", "peso": 1.2 },
+          { "s": "preocupação excessiva com a aparência", "peso": 1.1 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["busca constante de atenção"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Esquiva",
+        "tipo": "psicologico",
+        "descricao": "Padrão de inibição social, sentimentos de inadequação e hipersensibilidade à avaliação negativa.",
+        "tratamento": "Terapia, treinamento de habilidades sociais.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "evitação de atividades sociais", "peso": 1.5 },
+          { "s": "medo de críticas", "peso": 1.4 },
+          { "s": "sentimentos de inadequação", "peso": 1.4 },
+          { "s": "relutância em se envolver com pessoas", "peso": 1.3 },
+          { "s": "preocupação com rejeição", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["evitação de atividades sociais", "medo de críticas"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Dependente",
+        "tipo": "psicologico",
+        "descricao": "Necessidade excessiva de ser cuidado, levando a comportamento submisso e medo de separação.",
+        "tratamento": "Terapia, desenvolvimento de autonomia.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dificuldade em tomar decisões cotidianas", "peso": 1.5 },
+          { "s": "necessidade de que outros assumam responsabilidades", "peso": 1.4 },
+          { "s": "dificuldade em expressar discordância", "peso": 1.3 },
+          { "s": "medo de ficar sozinho", "peso": 1.4 },
+          { "s": "busca desesperada por novos relacionamentos quando um termina", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["dificuldade em tomar decisões cotidianas", "medo de ficar sozinho"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Esquizóide",
+        "tipo": "psicologico",
+        "descricao": "Padrão de distanciamento das relações sociais e faixa restrita de expressão emocional.",
+        "tratamento": "Terapia de apoio, desenvolvimento de habilidades sociais.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "falta de desejo por relacionamentos íntimos", "peso": 1.5 },
+          { "s": "preferência por atividades solitárias", "peso": 1.4 },
+          { "s": "pouco interesse em atividades sexuais", "peso": 1.3 },
+          { "s": "indiferença a elogios ou críticas", "peso": 1.3 },
+          { "s": "frieza emocional", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["falta de desejo por relacionamentos íntimos", "preferência por atividades solitárias"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Paranoide",
+        "tipo": "psicologico",
+        "descricao": "Desconfiança e suspeita generalizada em relação aos outros.",
+        "tratamento": "Psicoterapia de longo prazo, construção de confiança.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "suspeita de que estão sendo explorados", "peso": 1.5 },
+          { "s": "preocupação com lealdade dos outros", "peso": 1.4 },
+          { "s": "relutância em confiar", "peso": 1.5 },
+          { "s": "interpretação de significados ocultos", "peso": 1.3 },
+          { "s": "guardar rancor persistentemente", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["suspeita de que estão sendo explorados", "relutância em confiar"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Esquizotípica",
+        "tipo": "psicologico",
+        "descricao": "Padrão de desconforto agudo em relacionamentos íntimos, distorções cognitivas e comportamentos excêntricos.",
+        "tratamento": "Terapia, medicamentos para sintomas específicos.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "crenças estranhas ou pensamento mágico", "peso": 1.5 },
+          { "s": "experiências perceptivas incomuns", "peso": 1.4 },
+          { "s": "pensamento e discurso estranhos", "peso": 1.4 },
+          { "s": "suspeição ou ideação paranoide", "peso": 1.3 },
+          { "s": "comportamento ou aparência excêntrica", "peso": 1.2 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["crenças estranhas ou pensamento mágico", "pensamento e discurso estranhos"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Comportamento Disruptivo",
+        "tipo": "psicologico",
+        "descricao": "Padrão de comportamento antissocial, agressivo e desafiador em crianças e adolescentes.",
+        "tratamento": "Terapia familiar, terapia comportamental, treinamento de habilidades sociais.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "agressividade física", "peso": 1.6 },
+          { "s": "mentiras frequentes", "peso": 1.4 },
+          { "s": "roubo", "peso": 1.5 },
+          { "s": "violação de regras", "peso": 1.3 },
+          { "s": "dano à propriedade alheia", "peso": 1.4 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["agressividade física", "violação de regras"]
+        }
+      },
+      {
+        "doenca": "Síndrome do Pânico com Agorafobia",
+        "tipo": "psicologico",
+        "descricao": "Ataques de pânico recorrentes acompanhados de medo de estar em lugares onde escapar pode ser difícil.",
+        "tratamento": "Terapia cognitivo-comportamental, exposição gradual, medicamentos.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "ataques de pânico", "peso": 1.7 },
+          { "s": "medo de espaços abertos", "peso": 1.5 },
+          { "s": "medo de lugares fechados", "peso": 1.5 },
+          { "s": "evitação de situações públicas", "peso": 1.4 },
+          { "s": "dependência de companhia para sair", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["ataques de pânico", "medo de espaços abertos"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Adaptação",
+        "tipo": "psicologico",
+        "descricao": "Reação emocional ou comportamental desproporcional a um evento estressante identificável.",
+        "tratamento": "Terapia de suporte, intervenção em crise, medicamentos se necessário.",
+        "severidade": "leve",
+        "sintomas": [
+          { "s": "tristeza", "peso": 1.3 },
+          { "s": "ansiedade", "peso": 1.2 },
+          { "s": "dificuldade de concentração", "peso": 1.1 },
+          { "s": "alterações do sono", "peso": 1.0 },
+          { "s": "isolamento social", "peso": 1.0 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["tristeza", "ansiedade"]
+        }
+      },
+      {
+        "doenca": "Transtorno de Somatização",
+        "tipo": "psicologico",
+        "descricao": "Presença de múltiplos sintomas físicos sem causa médica identificável.",
+        "tratamento": "Psicoterapia, terapia cognitivo-comportamental, abordagem multidisciplinar.",
+        "severidade": "moderada",
+        "sintomas": [
+          { "s": "dores múltiplas", "peso": 1.5 },
+          { "s": "sintomas gastrointestinais", "peso": 1.4 },
+          { "s": "sintomas neurológicos", "peso": 1.3 },
+          { "s": "sintomas sexuais", "peso": 1.2 },
+          { "s": "preocupação excessiva com a saúde", "peso": 1.4 }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": ["dores múltiplas", "preocupação excessiva com a saúde"]
+        }
+      },
+      {
+        "doenca": "Transtorno Delirante",
+        "tipo": "psicologico",
+        "descricao": "Presença de um ou mais delírios não-bizarros por pelo menos um mês.",
+        "tratamento": "Antipsicóticos, psicoterapia de suporte.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "delírios persecutórios", "peso": 1.7 },
+          { "s": "delírios de grandeza", "peso": 1.6 },
+          { "s": "delírios ciúmes", "peso": 1.5 },
+          { "s": "delírios somáticos", "peso": 1.4 },
+          { "s": "isolamento social", "peso": 1.3 }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": ["delírios persecutórios"]
+        }
+      },
+      {
+        "doenca": "Catatonia",
+        "tipo": "psicologico",
+        "descricao": "Síndrome neuropsiquiátrica caracterizada por anormalidades motoras e comportamentais.",
+        "tratamento": "Benzodiazepínicos, terapia eletroconvulsiva, tratamento da causa subjacente.",
+        "severidade": "grave",
+        "sintomas": [
+          { "s": "estupor", "peso": 1.8 },
+          { "s": "catalepsia", "peso": 1.7 },
+          { "s": "flexibilidade cérea", "peso": 1.6 },
+          { "s": "mutismo", "peso": 1.5 },
+          { "s": "negativismo", "peso": 1.4 }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": ["estupor", "catalepsia"]
+        }
+      }
+    ]
+  }
+}

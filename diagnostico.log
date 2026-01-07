@@ -1,0 +1,6 @@
+2026-01-06 21:48:01,031 - diagnostico - INFO - Iniciando sistema integrado...
+2026-01-06 21:48:01,143 - diagnostico - INFO - Arquivo de pacientes não encontrado. Criando novo.
+2026-01-06 21:48:01,154 - diagnostico - INFO - Arquivo de histórico não encontrado. Criando novo.
+2026-01-06 21:48:01,204 - diagnostico - INFO - Doenças carregadas: 69
+2026-01-06 21:48:01,206 - diagnostico - INFO - Engine inicializado com 69 doenças
+2026-01-06 21:48:01,515 - diagnostico - INFO - Interface inicializada
